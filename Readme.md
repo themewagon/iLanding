@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/iLanding/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/iLanding/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/ilanding/)
  
  
 ## Getting Started
@@ -25,5 +25,6 @@ Design and code are completely written by BootstrapMade's design and development
  - Design and Code is Copyright &copy; [BootstrapMade](https://bootstrapmade.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
+
 
 
